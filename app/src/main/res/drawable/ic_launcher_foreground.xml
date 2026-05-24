@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Inner document card container -->
+    <path
+        android:pathData="M34,30 h40 c3.3,0 6,2.7 6,6 v36 c0,3.3 -2.7,6 -6,6 h-40 c-3.3,0 -6,-2.7 -6,-6 v-36 c0,-3.3 2.7,-6 6,-6 z"
+        android:fillColor="#262837"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round" />
+        
+    <!-- Sleek decorative horizontal lines representing task statements -->
+    <path
+        android:pathData="M38,40 h14 M38,48 h30 M38,62 h20"
+        android:strokeColor="#4E516D"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+    <!-- Bold, vibrant accent checkmark confirming task completion -->
+    <path
+        android:pathData="M48,60 L56,68 L72,48"
+        android:strokeColor="#81C784"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

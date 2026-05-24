@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A feature-rich offline-first To-Do List app with subtasks, reminder dates, custom categories, priorities, and simple dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
